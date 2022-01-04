@@ -6,7 +6,7 @@ Open the firmware.ino and flash it inside arduino (D8,D5 is just and example)
 # On Linux only 
 get via curl the install.sh like that 
 ```Bash
-curl https://raw.githubusercontent.com/alex5250/rgb-controller-deepcool/main/software/install.sh > install.sh
+curl https://raw.githubusercontent.com/alex5250/rgb-controller-deepcool/main/software/install.sh > install.sh && chmod 755 install.sh
 ```
 Run it with sudo 
 ```Bash

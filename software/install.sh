@@ -1,4 +1,4 @@
-URL=""
+URL="https://github.com/alex5250/rgb-controller-deepcool/releases/download/v0.01/linux_rgb_daemon"
 PORT="/dev/ttyUSB0"
 
 wget $URL 
